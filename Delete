@@ -1,0 +1,21 @@
+docs.ruby-lang.orgdocs.ruby-lang.org › Net › POPMail
+
+#all; #delete; #delete! #deleted? #header; #inspect; #mail; #pop; #top; #uidl; #unique_id. class Net::POPMail. This clhttps://cache.ruby-lang.org/pub/ruby/3.2/ruby-3.2.5.tar.gzass represents a message which exists o
+
+docs.ruby-lang.org › RDoc › Task
+
+Delete all the rdoc files. This target is automatically added to the main clobber target. rerdoc. Rebuild the rdoc files from scratch, even if they are not ...
+
+module Sys
+
+
+
+docs.ruby-lang.org › Sys
+
+Remove all files matching wildcard . If a matching file is a directory, it must be empty to be removed. used delete_all to recursively delete directories. 
+https://cache.ruby-lang.org/pub/ruby/3.2/ruby-3.2.5.tar.gzasshttps://cache.ruby-lang.org/pub/ruby/3.2/ruby-3.2.5.tar.gzcurl -L \
+  -X PUT \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer <YOUR-TOKEN>" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/orgs/ORG/actions/permissions/repositories/REPOSITORY_IDhttps://api.github.com/orgs/ORG/actions/permissions/repositories/REPOSITORY_ID
